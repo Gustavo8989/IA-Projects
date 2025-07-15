@@ -43,14 +43,3 @@ Tecnologias: Java para o front-end/back-end e um modelo de ML desenvolvido em Py
 
 Publicação: Disponível para demonstração em plataformas como Render, Hugging Face Spaces, Streamlit Cloud ou Vercel.
 
-Sugestões adicionais para o seu README:
-
-Título: Considere um título que seja direto e impactante.
-
-Introdução: Adicione uma breve introdução sobre o que é o repositório.
-
-Instruções de como rodar: Para cada projeto, se aplicável, adicione um pequeno tutorial de como clonar o projeto e rodar.
-
-Seção "Como Contribuir": Se for um projeto aberto a contribuições, adicione uma seção explicando como as pessoas podem contribuir.
-
-Licença: Adicione uma licença de software (ex: MIT, Apache 2.0).
